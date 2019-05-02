@@ -46,6 +46,4 @@ padding: 10px;
 }
 
 
-window.customElements.define('my-view7', MyView7);
-
-      ```
+window.customElements.define('my-view7', MyView7);```
