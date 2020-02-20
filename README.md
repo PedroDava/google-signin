@@ -1,6 +1,7 @@
+google-sign upgraded from polymer 2.0 to polymer 3.0.
 # google-signin
 
-google-sign upgraded from polymer 2.0 to polymer 3.0.
+
 
 
 ```
